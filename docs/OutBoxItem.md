@@ -1,0 +1,42 @@
+# AktionClient::OutBoxItem
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**phone_call** | [**PhoneCall**](PhoneCall.md) |  | [optional] 
+**account** | [**Account**](Account.md) |  | [optional] 
+**contact** | [**Contact**](Contact.md) |  | [optional] 
+**lead** | [**Lead**](Lead.md) |  | [optional] 
+**inn** | **String** |  | [optional] 
+**kpp** | **String** |  | [optional] 
+**pin** | **String** |  | [optional] 
+**parent_account** | [**Account**](Account.md) |  | [optional] 
+**anons_product** | **String** |  | [optional] 
+**about_product** | **String** |  | [optional] 
+**action_product** | **String** |  | [optional] 
+**current_redial_count** | **Integer** |  | [optional] 
+**get_not_dialed_calls_count** | **BOOLEAN** |  | [optional] 
+**contact_person** | [**Array&lt;Contact&gt;**](Contact.md) |  | [optional] 
+**contact_persons_phone_numbers** | [**Array&lt;KeyValuePairContactContactInfo&gt;**](KeyValuePairContactContactInfo.md) |  | [optional] 
+**proper_phone_numbers** | [**Array&lt;ContactInfo&gt;**](ContactInfo.md) |  | [optional] 
+**parent_account_phone_numbers** | [**Array&lt;ContactInfo&gt;**](ContactInfo.md) |  | [optional] 
+**activity_log_items** | [**Array&lt;ActivityLogItem&gt;**](ActivityLogItem.md) |  | [optional] 
+**demo_access_log_items** | [**Array&lt;DemoAccessLogItem&gt;**](DemoAccessLogItem.md) |  | [optional] 
+**overview** | [**NewOverview**](NewOverview.md) |  | [optional] 
+**campaign_id** | **String** |  | [optional] 
+**settingsid** | **String** |  | [optional] 
+**selected_contact** | [**Contact**](Contact.md) |  | [optional] 
+**taxation** | **Integer** |  | [optional] 
+**product_name_g** | **String** |  | [optional] 
+**job_type** | **Integer** |  | [optional] 
+**phones** | [**Array&lt;Phones&gt;**](Phones.md) |  | [optional] 
+**created_by** | [**CrmUser**](CrmUser.md) |  | [optional] 
+**created_on** | **DateTime** |  | [optional] 
+**modified_by** | [**CrmUser**](CrmUser.md) |  | [optional] 
+**modified_on** | **DateTime** |  | [optional] 
+**id** | **String** |  | [optional] 
+**name** | **String** |  | [optional] 
+**state_code** | **Integer** |  | [optional] 
+**status_code** | **Integer** |  | [optional] 
+
+

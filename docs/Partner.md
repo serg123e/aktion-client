@@ -1,0 +1,43 @@
+# AktionClient::Partner
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**partner_short_id** | **String** |  | [optional] 
+**full_name** | **String** |  | [optional] 
+**type** | **String** |  | [optional] 
+**payment_scenario** | [**PartnerPaymentScenario**](PartnerPaymentScenario.md) |  | [optional] 
+**telephone** | **String** |  | [optional] 
+**site_url** | **String** |  | [optional] 
+**distribution_manager** | [**CrmUser**](CrmUser.md) |  | [optional] 
+**level** | **Integer** |  | [optional] 
+**is_external_partner** | **BOOLEAN** |  | [optional] 
+**parent_partner** | [**Partner**](Partner.md) |  | [optional] 
+**top_partner** | [**Partner**](Partner.md) |  | [optional] 
+**brand_name_for_site** | **String** |  | [optional] 
+**web_site_url** | **String** |  | [optional] 
+**partner_level_name** | **String** |  | [optional] 
+**legal_address** | **String** |  | [optional] 
+**tax_number** | **String** |  | [optional] 
+**main_state_reg_number** | **String** |  | [optional] 
+**is_has_telephony** | **BOOLEAN** |  | [optional] 
+**soft_phone_users** | **Integer** |  | [optional] 
+**web_rtc_users** | **Integer** |  | [optional] 
+**all_users** | **Integer** |  | [optional] 
+**server_url** | **String** |  | [optional] 
+**top_partner_size** | **Integer** |  | [optional] 
+**top_partner_size_name** | **String** |  | [optional] 
+**not_suspended_count** | **Integer** |  | [optional] 
+**suspended_count** | **Integer** |  | [optional] 
+**manager_count** | **Integer** |  | [optional] 
+**root_partner_name** | **String** |  | [optional] 
+**created_by** | [**CrmUser**](CrmUser.md) |  | [optional] 
+**created_on** | **DateTime** |  | [optional] 
+**modified_by** | [**CrmUser**](CrmUser.md) |  | [optional] 
+**modified_on** | **DateTime** |  | [optional] 
+**id** | **String** |  | [optional] 
+**name** | **String** |  | [optional] 
+**state_code** | **Integer** |  | [optional] 
+**status_code** | **Integer** |  | [optional] 
+
+

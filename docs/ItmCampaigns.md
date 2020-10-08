@@ -1,0 +1,41 @@
+# AktionClient::ItmCampaigns
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**new_businessunitid** | **String** |  | [optional] 
+**campaign_id** | **String** |  | [optional] 
+**description** | **String** |  | [optional] 
+**objective** | **String** |  | [optional] 
+**new_url_script** | **String** |  | [optional] 
+**new_url_menu** | **String** |  | [optional] 
+**new_url_pricelist** | **String** |  | [optional] 
+**new_min_interval** | **Integer** |  | [optional] 
+**new_logic_number_1** | **Integer** |  | [optional] 
+**new_logic_number_2** | **Integer** |  | [optional] 
+**new_logic_number_3** | **Integer** |  | [optional] 
+**new_logic_number_4** | **Integer** |  | [optional] 
+**new_next_data** | **BOOLEAN** |  | [optional] 
+**new_next_newcustomer** | **BOOLEAN** |  | [optional] 
+**new_next_timezones** | **BOOLEAN** |  | [optional] 
+**new_types_campaing** | **String** |  | [optional] 
+**new_next_oldcustomer** | **BOOLEAN** |  | [optional] 
+**new_redial_max** | **String** |  | [optional] 
+**new_system_auto_avaya** | **BOOLEAN** |  | [optional] 
+**new_apc_job** | **String** |  | [optional] 
+**new_personal_phonecall** | **BOOLEAN** |  | [optional] 
+**new_nedozvon_max** | **String** |  | [optional] 
+**new_count_phonecall_log** | **Integer** |  | [optional] 
+**new_maxday_callback** | **Integer** |  | [optional] 
+**new_customertimefrom** | **String** |  | [optional] 
+**new_customertimeto** | **String** |  | [optional] 
+**new_interactive_script** | **BOOLEAN** |  | [optional] 
+**new_isdemo_access** | **BOOLEAN** |  | [optional] 
+**call_count** | **Integer** |  | [optional] 
+**sub_type** | **Integer** |  | [optional] 
+**sub_type_name** | **String** |  | [optional] 
+**name** | **String** |  | [optional] 
+**summary_call_count** | **Integer** |  | [optional] 
+**my_call_count** | **Integer** |  | [optional] 
+
+
